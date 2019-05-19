@@ -1,0 +1,87 @@
+body
+{
+	font-size:120%;
+	background-image: url("back.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.header
+{
+	width:30%;
+	margin:50px auto 0px;
+	text-align:center;
+	padding:20px;
+}
+
+form
+{
+	width:40%;
+	margin:20px auto;
+	padding:20px;
+	border:1px solid black;
+	border-radius:0px 0px 10px 10px;
+}
+
+.input-group
+{
+	margin:10px 0px 10px 0px;
+}
+
+.input-group label
+{
+	display:block;
+	text-align:left;
+	margin:17px;
+}
+
+.input-group input
+{
+	height:30px;
+	width:93%;
+	padding:5px 10px;
+	font-size:16px;
+	border-radius:5px;
+	border:1px solid gray:
+}
+
+.btn
+{
+	display:block;
+	padding:10px;
+	margin: 0 auto;
+	font-size:15px;
+	color:white;
+	background:#5F9EA0;
+	border:none;
+	border-radius:2px;
+}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #3c3c3c ;
+  color: white;
+}
+
+
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #3c3c3c;
+  color: white;
+}
+
